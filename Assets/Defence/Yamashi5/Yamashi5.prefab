@@ -30,22 +30,22 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.176
+      value: -263.141
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.17
+      value: 7.538
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.608
+      value: 255.262
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: 0.9977374
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
@@ -55,7 +55,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7071068
+      value: 0.06723168
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
@@ -70,7 +70,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
+      value: 7.71
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a99c4bd26b77f4e4a912c394d11f1ec9,
         type: 3}
@@ -110,8 +110,8 @@ Animator:
   m_GameObject: {fileID: 4198448007244174609}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 017a70bdf7e9b417c8c0f07b4ca8e733, type: 2}
-  m_CullingMode: 0
+  m_Controller: {fileID: 9100000, guid: 68668923ad01f4f08abff5f82b9009f1, type: 2}
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
